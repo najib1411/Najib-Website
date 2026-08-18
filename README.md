@@ -1,5 +1,3 @@
-# Najib-Website
-My personal website 
 <!DOCTYPE html>
 <html lang="en">
 <head>
